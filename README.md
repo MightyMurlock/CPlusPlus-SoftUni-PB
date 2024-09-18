@@ -1,1 +1,2 @@
-# C-SoftUni-PB
+# CPlusPlus SoftUni PB
+Solutions to SoftUni prroblems.
