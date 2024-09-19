@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C86B4BE7-849C-4FDC-B36D-D95EF28031BB}|P09\\P09.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C86B4BE7-849C-4FDC-B36D-D95EF28031BB}|P09\\P09.vcxproj|solutionrelative:P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09240B5A-B02D-4E2A-934C-AD906495A129}|P08\\P08.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09240B5A-B02D-4E2A-934C-AD906495A129}|P08\\P08.vcxproj|solutionrelative:P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB16DE6-0D1F-475B-9FB9-3782C7CA44CC}|P07\\P07.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEB16DE6-0D1F-475B-9FB9-3782C7CA44CC}|P07\\P07.vcxproj|solutionrelative:P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{880256B3-3AA9-441F-B2FA-FAC693F31FCE}|P06\\P06.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P06\\P06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{880256B3-3AA9-441F-B2FA-FAC693F31FCE}|P06\\P06.vcxproj|solutionrelative:P06\\P06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CBEC8B0-CD73-412D-900D-327B4C24675B}|P05\\P05.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P05\\P05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0CBEC8B0-CD73-412D-900D-327B4C24675B}|P05\\P05.vcxproj|solutionrelative:P05\\P05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94897AA4-8F1D-4D08-9115-3235114BCDF9}|P04\\P04.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P04\\P04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{94897AA4-8F1D-4D08-9115-3235114BCDF9}|P04\\P04.vcxproj|solutionrelative:P04\\P04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1798CE-09CF-4005-91A5-4FE9E3445F51}|P03\\P03.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P03\\P03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE1798CE-09CF-4005-91A5-4FE9E3445F51}|P03\\P03.vcxproj|solutionrelative:P03\\P03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6694E3F7-8666-41AE-BD22-9581AB34A657}|P02\\P02.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P02\\P02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6694E3F7-8666-41AE-BD22-9581AB34A657}|P02\\P02.vcxproj|solutionrelative:P02\\P02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DBAFC3E-D337-41E7-AF4B-BEFD1D1DA746}|P01\\P01.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P01\\P01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DBAFC3E-D337-41E7-AF4B-BEFD1D1DA746}|P01\\P01.vcxproj|solutionrelative:P01\\P01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P09.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P09\\P09.cpp",
+              "RelativeDocumentMoniker": "P09\\P09.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P09\\P09.cpp",
+              "RelativeToolTip": "P09\\P09.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T11:03:44.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P08.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P08\\P08.cpp",
+              "RelativeDocumentMoniker": "P08\\P08.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P08\\P08.cpp",
+              "RelativeToolTip": "P08\\P08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T11:00:20.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P07.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P07\\P07.cpp",
+              "RelativeDocumentMoniker": "P07\\P07.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P07\\P07.cpp",
+              "RelativeToolTip": "P07\\P07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:56:13.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P06.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P06\\P06.cpp",
+              "RelativeDocumentMoniker": "P06\\P06.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P06\\P06.cpp",
+              "RelativeToolTip": "P06\\P06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:55:42.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P05.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P05\\P05.cpp",
+              "RelativeDocumentMoniker": "P05\\P05.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P05\\P05.cpp",
+              "RelativeToolTip": "P05\\P05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:50:11.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P04.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P04\\P04.cpp",
+              "RelativeDocumentMoniker": "P04\\P04.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P04\\P04.cpp",
+              "RelativeToolTip": "P04\\P04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:47:32.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P03.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P03\\P03.cpp",
+              "RelativeDocumentMoniker": "P03\\P03.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P03\\P03.cpp",
+              "RelativeToolTip": "P03\\P03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:45:17.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P02.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P02\\P02.cpp",
+              "RelativeDocumentMoniker": "P02\\P02.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P02\\P02.cpp",
+              "RelativeToolTip": "P02\\P02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:43:27.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P01.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P01\\P01.cpp",
+              "RelativeDocumentMoniker": "P01\\P01.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Lab\\P01\\P01.cpp",
+              "RelativeToolTip": "P01\\P01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-19T10:41:04.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
