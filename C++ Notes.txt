@@ -1,0 +1,16 @@
+C++ Notes:
+
+Use in every C++ project:
+--->	#include <iostream>
+	using namespace std;	//std - standard (instead of typing std:: everywhere)
+				
+
+To use math in C++
+--->	#define _USE_MATH_DEFINES
+	#include <cmath>
+
+To format double numbers use:
+--->	Option 1: cout.setf(ios::fixed);
+		  cout.precision(2);
+	Option 2: #include <iomanip> // iomanip - input/output manipulation
+		  cout << fixed << setprecision(2) <<...
