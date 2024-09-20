@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D5CAC7-ACD1-45DC-A87C-7E0DB1712676}|P09\\P09.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14D5CAC7-ACD1-45DC-A87C-7E0DB1712676}|P09\\P09.vcxproj|solutionrelative:P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5669CF3D-61B6-4645-AECA-759A6B49566A}|P08\\P08.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5669CF3D-61B6-4645-AECA-759A6B49566A}|P08\\P08.vcxproj|solutionrelative:P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05508B0D-C1B6-49D0-9071-B87F6AAFB9B1}|P07\\P07.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{05508B0D-C1B6-49D0-9071-B87F6AAFB9B1}|P07\\P07.vcxproj|solutionrelative:P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02BF2F53-A644-409D-A81F-DF72BE6FB7B6}|P06\\P06.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P06\\P06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02BF2F53-A644-409D-A81F-DF72BE6FB7B6}|P06\\P06.vcxproj|solutionrelative:P06\\P06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60C180A0-3FAD-490C-8C4B-ABE61EFDFA8B}|P05\\P05.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P05\\P05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60C180A0-3FAD-490C-8C4B-ABE61EFDFA8B}|P05\\P05.vcxproj|solutionrelative:P05\\P05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EB6A6AD-0950-4311-9AB1-2CCEF69A389F}|P04\\P04.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P04\\P04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EB6A6AD-0950-4311-9AB1-2CCEF69A389F}|P04\\P04.vcxproj|solutionrelative:P04\\P04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED6C97E0-EAE2-48D4-BD31-917B46817346}|P03\\P03.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P03\\P03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED6C97E0-EAE2-48D4-BD31-917B46817346}|P03\\P03.vcxproj|solutionrelative:P03\\P03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582E9F27-CD65-4B1F-8514-0446DE5992A7}|P02\\P02.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P02\\P02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{582E9F27-CD65-4B1F-8514-0446DE5992A7}|P02\\P02.vcxproj|solutionrelative:P02\\P02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A153354-B598-4FC8-9FD4-59CC85765E28}|P01\\P01.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P01\\P01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A153354-B598-4FC8-9FD4-59CC85765E28}|P01\\P01.vcxproj|solutionrelative:P01\\P01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "P09.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P09\\P09.cpp",
+              "RelativeDocumentMoniker": "P09\\P09.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P09\\P09.cpp",
+              "RelativeToolTip": "P09\\P09.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T12:42:00.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P08.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P08\\P08.cpp",
+              "RelativeDocumentMoniker": "P08\\P08.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P08\\P08.cpp",
+              "RelativeToolTip": "P08\\P08.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T12:31:14.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P07.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P07\\P07.cpp",
+              "RelativeDocumentMoniker": "P07\\P07.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P07\\P07.cpp",
+              "RelativeToolTip": "P07\\P07.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T11:28:12.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P06.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P06\\P06.cpp",
+              "RelativeDocumentMoniker": "P06\\P06.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P06\\P06.cpp",
+              "RelativeToolTip": "P06\\P06.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T10:51:35.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P05.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P05\\P05.cpp",
+              "RelativeDocumentMoniker": "P05\\P05.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P05\\P05.cpp",
+              "RelativeToolTip": "P05\\P05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T10:09:32.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P04.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P04\\P04.cpp",
+              "RelativeDocumentMoniker": "P04\\P04.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P04\\P04.cpp",
+              "RelativeToolTip": "P04\\P04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T09:51:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P03.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P03\\P03.cpp",
+              "RelativeDocumentMoniker": "P03\\P03.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P03\\P03.cpp",
+              "RelativeToolTip": "P03\\P03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T09:43:24.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P02.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P02\\P02.cpp",
+              "RelativeDocumentMoniker": "P02\\P02.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P02\\P02.cpp",
+              "RelativeToolTip": "P02\\P02.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T09:38:33.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P01.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P01\\P01.cpp",
+              "RelativeDocumentMoniker": "P01\\P01.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\First Steps In Coding - Exercise\\P01\\P01.cpp",
+              "RelativeToolTip": "P01\\P01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-20T09:30:53.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
