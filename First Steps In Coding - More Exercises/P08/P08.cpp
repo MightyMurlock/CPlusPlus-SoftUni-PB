@@ -12,6 +12,6 @@ int main() {
 	double circleArea = M_PI * pow(r, 2);
 	double circlePerimeter = 2 * M_PI * r;
 
-	cout << fixed << setprecision(2) << "calculated area: " << circleArea << endl
-		<< "calculated parameter: " << circlePerimeter << endl;
+	cout << fixed << setprecision(2) << circleArea << endl
+		<< circlePerimeter << endl;
 }

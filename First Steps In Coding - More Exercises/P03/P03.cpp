@@ -4,7 +4,9 @@ using namespace std;
 
 int main() {
 
-	double celcius;
-	cin >> celcius;
+	double celsius;
+	cin >> celsius;
 
+	double fahrenheit = (1.8 * celsius) + 32;
+	cout << fixed << setprecision(2) << fahrenheit << endl;
 }
