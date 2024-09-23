@@ -1,0 +1,4 @@
+﻿  P05.cpp
+C:\Users\Hp\source\repos\First Steps In Coding - More Exercises\P05\P05.cpp(29,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Hp\source\repos\First Steps In Coding - More Exercises\P05\P05.cpp(30,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  P05.vcxproj -> C:\Users\Hp\source\repos\First Steps In Coding - More Exercises\x64\Debug\P05.exe
