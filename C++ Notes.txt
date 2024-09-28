@@ -18,6 +18,8 @@ To format double numbers use:
 Whenever I have a variable that does not change in value and is constant:
 --->	Add: const (variable) ....
 
-setw(int x) ----> Can be used for input and output. It sets a restriction that is equal to [int x], so that the input/output does not overstep said restriction.
-setfill(char a) ----> Used for output. If the output has a restriction on width, setfill, fills the width of the output with a specified character. 
-		-----> Both [setw] and [setfill] are used from the library <iomanip>.
+setw(int x) ----> Can be used for input and output. It sets a restriction that is 		  equal to [int x], so that the input/output does not overstep said 		  restriction.
+setfill(char a) ----> Used for output. If the output has a restriction on width, 		      setfill, fills the width of the output with a specified 			      character. 
+		      -----> Both [setw] and [setfill] are used from the library 			     <iomanip>.
+
+getline(sin, string a) ----> Reads everything on the line and appends it to the 			     string. This is used because [cin] can't read more two or 			     more words where there is a space between them. (You 			     don't need a [cin] after [getline].
