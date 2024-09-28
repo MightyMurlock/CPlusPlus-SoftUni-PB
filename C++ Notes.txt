@@ -23,3 +23,4 @@ setfill(char a) ----> Used for output. If the output has a restriction on width,
 		      -----> Both [setw] and [setfill] are used from the library 			     <iomanip>.
 
 getline(sin, string a) ----> Reads everything on the line and appends it to the 			     string. This is used because [cin] can't read more two or 			     more words where there is a space between them. (You 			     don't need a [cin] after [getline].
+
