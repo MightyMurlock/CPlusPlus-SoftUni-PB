@@ -4,17 +4,21 @@ using namespace std;
 
 int main() {
 
-	const double GASOLINE_PRICE = 2.22;
-	const double DIESEL_PRICE = 2.33;
-	const double GAS_PRICE = 0.93;
-
+	//CARD DISCOUNT
 	const double GASOLINE_DISCOUNT = 0.18;
 	const double DIESEL_DISCOUNT = 0.12;
 	const double GAS_DISCOUNT = 0.08;
 
+	//DISCOUNT1 = >= 20 && <= 25
 	const double DISCOUNT1 = 0.08;
+	//DISCOUNT2 = > 25
 	const double DISCOUNT2 = 0.1;
+	//DISCOUNT FOR THE FINAL PRICE
 
+	double gasolinePrice = 2.22;
+	double dieselPrice = 2.33;
+	double gasPrice = 0.93;
+	
 	string type;
 	double fuel;
 	string card;
@@ -22,41 +26,16 @@ int main() {
 		>> fuel
 		>> card;
 
-	cout << fixed << setprecision(2);
-	if (type == "Gas") {
-		double price = fuel * GAS_PRICE;
-
-		if (fuel >= 20 && fuel <= 25) {
-			price -= price * DISCOUNT1;
-		}
-		else if (fuel > 25) {
-			price -= price * DISCOUNT2;
-		}
-
-		if (card == "Yes") {
-			price -= GAS_DISCOUNT;
-		}
-
-		cout << price << " lv.";
-	}
-	else if (type == "Gasoline") {
-		double price = fuel * GASOLINE_PRICE;
-
-		if (fuel >= 20 && fuel <= 25) {
-			price -= price * DISCOUNT1;
-		}
-		else if (fuel > 25) {
-			price -= price * DISCOUNT2;
-		}
-
+	double price = 0;
+	if (type == "Gasoline") {
+		
+		price += gasolinePrice;
+		
 		if (card == "Yes") {
 			price -= GASOLINE_DISCOUNT;
 		}
 
-		cout << price << " lv.";
-	}
-	else if (type == "Diesel") {
-		double price = fuel * DIESEL_PRICE;
+		price *= fuel;
 
 		if (fuel >= 20 && fuel <= 25) {
 			price -= price * DISCOUNT1;
@@ -64,13 +43,41 @@ int main() {
 		else if (fuel > 25) {
 			price -= price * DISCOUNT2;
 		}
+	}
+	else if (type == "Diesel") {
+
+		price += dieselPrice;
 
 		if (card == "Yes") {
 			price -= DIESEL_DISCOUNT;
 		}
 
-		cout << price << " lv.";
+		price *= fuel;
+
+		if (fuel >= 20 && fuel <= 25) {
+			price -= price * DISCOUNT1;
+		}
+		else if (fuel > 25) {
+			price -= price * DISCOUNT2;
+		}
+	}
+	else if (type == "Gas") {
+
+		price += gasPrice;
+
+		if (card == "Yes") {
+			price -= GAS_DISCOUNT;
+		}
+
+		price *= fuel;
+
+		if (fuel >= 20 && fuel <= 25) {
+			price -= price * DISCOUNT1;
+		}
+		else if (fuel > 25) {
+			price -= price * DISCOUNT2;
+		}
 	}
 
-
+	cout << fixed << setprecision(2) << price << " lv." << endl;
 }
