@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9C91D6A3-1186-4927-9D23-52E6993EB12E}|P12\\P12.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P12\\P12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9C91D6A3-1186-4927-9D23-52E6993EB12E}|P12\\P12.vcxproj|solutionrelative:P12\\P12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{283617B9-9066-45F0-9DB9-D183913849E0}|P11\\P11.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P11\\P11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{283617B9-9066-45F0-9DB9-D183913849E0}|P11\\P11.vcxproj|solutionrelative:P11\\P11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFB0A67-3C2A-4AC5-9526-52A03AC2D4F6}|P08\\P08.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BFB0A67-3C2A-4AC5-9526-52A03AC2D4F6}|P08\\P08.vcxproj|solutionrelative:P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E639E52A-477D-4A72-B90A-B2AB3AA48341}|P10\\P10.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P10\\P10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAD0A099-E8B2-48A2-A162-71CBCD57ABD2}|P09\\P09.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAD0A099-E8B2-48A2-A162-71CBCD57ABD2}|P09\\P09.vcxproj|solutionrelative:P09\\P09.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BFB0A67-3C2A-4AC5-9526-52A03AC2D4F6}|P08\\P08.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1BFB0A67-3C2A-4AC5-9526-52A03AC2D4F6}|P08\\P08.vcxproj|solutionrelative:P08\\P08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59598E4A-18AB-433D-8C54-ED0372983839}|P07\\P07.vcxproj|C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P07\\P07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -63,19 +67,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "P12.cpp",
+              "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P12\\P12.cpp",
+              "RelativeDocumentMoniker": "P12\\P12.cpp",
+              "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P12\\P12.cpp",
+              "RelativeToolTip": "P12\\P12.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvy0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T20:04:19.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "P11.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P11\\P11.cpp",
               "RelativeDocumentMoniker": "P11\\P11.cpp",
               "ToolTip": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P11\\P11.cpp",
               "RelativeToolTip": "P11\\P11.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv1sAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-07T20:43:47.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "P10.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P10\\P10.cpp",
               "RelativeDocumentMoniker": "P10\\P10.cpp",
@@ -83,12 +100,11 @@
               "RelativeToolTip": "P10\\P10.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:38:32.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:38:32.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "P09.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P09\\P09.cpp",
               "RelativeDocumentMoniker": "P09\\P09.cpp",
@@ -96,12 +112,11 @@
               "RelativeToolTip": "P09\\P09.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:33:46.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:33:46.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "P08.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P08\\P08.cpp",
               "RelativeDocumentMoniker": "P08\\P08.cpp",
@@ -114,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "P07.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P07\\P07.cpp",
               "RelativeDocumentMoniker": "P07\\P07.cpp",
@@ -122,12 +137,11 @@
               "RelativeToolTip": "P07\\P07.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:19:59.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:19:59.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "P06.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P06\\P06.cpp",
               "RelativeDocumentMoniker": "P06\\P06.cpp",
@@ -135,12 +149,11 @@
               "RelativeToolTip": "P06\\P06.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:16:51.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:16:51.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "P05.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P05\\P05.cpp",
               "RelativeDocumentMoniker": "P05\\P05.cpp",
@@ -148,12 +161,11 @@
               "RelativeToolTip": "P05\\P05.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:08:00.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:08:00.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "P04.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P04\\P04.cpp",
               "RelativeDocumentMoniker": "P04\\P04.cpp",
@@ -161,12 +173,11 @@
               "RelativeToolTip": "P04\\P04.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T20:01:00.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T20:01:00.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "P03.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P03\\P03.cpp",
               "RelativeDocumentMoniker": "P03\\P03.cpp",
@@ -174,12 +185,11 @@
               "RelativeToolTip": "P03\\P03.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T19:56:59.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:56:59.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "P02.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P02\\P02.cpp",
               "RelativeDocumentMoniker": "P02\\P02.cpp",
@@ -187,12 +197,11 @@
               "RelativeToolTip": "P02\\P02.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T19:42:28.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:42:28.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "P01.cpp",
               "DocumentMoniker": "C:\\GitHub REPs\\CPlusPlus-SoftUni-PB\\Conditional Statements Advanced - Lab\\P01\\P01.cpp",
               "RelativeDocumentMoniker": "P01\\P01.cpp",
@@ -200,8 +209,7 @@
               "RelativeToolTip": "P01\\P01.cpp",
               "ViewState": "AgIAACoAAAAAAAAAAADwv0MAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-07T19:37:01.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T19:37:01.37Z"
             }
           ]
         }
